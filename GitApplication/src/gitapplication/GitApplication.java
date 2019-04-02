@@ -16,6 +16,7 @@ public class GitApplication {
      */
     public static void main(String[] args) {
         System.out.println("Git Application");
+        System.out.println("After commit");
     }
     
 }
